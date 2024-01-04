@@ -21,4 +21,3 @@
  <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LKAMING97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
